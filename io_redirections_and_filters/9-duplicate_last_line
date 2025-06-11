@@ -1,2 +1,2 @@
 #!/bin/bash
-tail --lines iacta
+cp iacta_0 | tail -1 iacta_0
